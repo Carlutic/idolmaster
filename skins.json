@@ -1,0 +1,58 @@
+[
+    {
+        "id": 111000,
+        "name": "Saki",
+        "displayName": "花海咲季（运动内衣）",
+        "weaponType": "",
+        "element": "Idolmaster",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Saki",
+        "image": "Covers/Saki.png",
+        "pmx": "v01/Saki2_SportsBraSet_1.0/Saki2_SportsBraSet.pmx",
+        "base": "https://carlutic.github.io/idolmaster/"
+    },
+    {
+        "id": 111001,
+        "name": "Saki",
+        "displayName": "花海咲季（运动内衣 Hi）",
+        "weaponType": "",
+        "element": "Idolmaster",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Saki",
+        "image": "Covers/Saki.png",
+        "pmx": "v02/Saki2_SportsBraSet_1.0/Saki2_SportsBraSet_Hi_1.0.pmx",
+        "base": "https://carlutic.github.io/idolmaster/"
+    },
+    {
+        "id": 111002,
+        "name": "Uika",
+        "displayName": "三角初华（吉他差分）",
+        "weaponType": "",
+        "element": "Idolmaster",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Uika",
+        "image": "Covers/Uika.png",
+        "pmx": "v01/三角初华_Doloris（演出服）/三角初华_Doloris_吉他差分（演出服）.pmx",
+        "base": "https://carlutic.github.io/idolmaster/"
+    },
+    {
+        "id": 111003,
+        "name": "Sakiko",
+        "displayName": "丰川祥子（同人版（blend 转换））",
+        "weaponType": "",
+        "element": "Idolmaster",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Sakiko",
+        "image": "Covers/Sakiko.png",
+        "pmx": "v01/saki/saki.pmx",
+        "base": "https://carlutic.github.io/idolmaster/"
+    }
+]
